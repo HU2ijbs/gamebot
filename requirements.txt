@@ -1,3 +1,2 @@
-load_dotenv
-request
-dotenv
+python-dotenv
+requests
