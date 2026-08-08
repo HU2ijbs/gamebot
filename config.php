@@ -4,6 +4,7 @@ define('BOT_TOKEN', '8735468401:AAHCTktkWFyQsIojCDGTtWKRU7WFGMA2iLk');
 define('TELEGRAM_API', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 
 define('DB_HOST', 'mysql.railway.internal');
+define('DB_PORT', '3306');
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');
 define('DB_PASS', 'cDUvsQVNtkLRztHyaFWAPaJWTAIUDPSx');
