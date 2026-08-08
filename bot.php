@@ -7,7 +7,7 @@ require_once __DIR__ . '/includes/Settings.php';
 require_once __DIR__ . '/includes/Game.php';
 require_once __DIR__ . '/includes/Admin.php';
 
-const BOT_USERNAME = '@Game_IdleBot';
+const BOT_USERNAME = 'Game_IdleBot';
 
 function isChannelMember(int $telegramId, ?array $user = null, bool $forceRefresh = false): bool
 {
