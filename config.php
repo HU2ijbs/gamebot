@@ -11,7 +11,7 @@ define('DB_CHARSET', 'utf8mb4');
 
 define('ADMIN_IDS', [7727625618]);
 
-define('@ ', ''); 
+define('@HusteRIX', '7727625618'); 
 
 define('START_GOLD', 5000);
 define('START_OIL', 1000);
