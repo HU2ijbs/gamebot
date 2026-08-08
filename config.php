@@ -1,7 +1,7 @@
 <?php
 
-define('BOT_TOKEN', '');
-define('TELEGRAM_API', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
+define('BOT_TOKEN', '8735468401:AAHCTktkWFyQsIojCDGTtWKRU7WFGMA2iLk');
+define('TELEGRAM_API', 'https://api.telegram.org/bot' . 8735468401:AAHCTktkWFyQsIojCDGTtWKRU7WFGMA2iLk . '/');
 
 define('DB_HOST', '127.0.0.1');
 define('DB_NAME', 'dbName');
@@ -9,7 +9,7 @@ define('DB_USER', 'User');
 define('DB_PASS', 'Pass');
 define('DB_CHARSET', 'utf8mb4');
 
-define('ADMIN_IDS', [ ]);
+define('ADMIN_IDS', [7727625618]);
 
 define('@ ', ''); 
 
